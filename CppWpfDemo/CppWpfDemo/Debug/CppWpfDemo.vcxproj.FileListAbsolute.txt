@@ -1,0 +1,1 @@
+D:\exercises\CppWpfDemo\CppWpfDemo\Debug\CppWpfDemo.vcxprojAssemblyReference.cache

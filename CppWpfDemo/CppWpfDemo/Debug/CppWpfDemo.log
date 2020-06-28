@@ -1,0 +1,5 @@
+﻿  MyComponent.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyComponent.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppWpfDemo.vcxproj -> D:\exercises\CppWpfDemo\Debug\CppWpfDemo.exe
